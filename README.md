@@ -2,9 +2,13 @@
 
 1.Write a query to display the columns in a specific order like order date, salesman id, order number and purchase amount from for all the orders
 2.write a SQL query to find the unique salespeople ID. Return salesman_id.
+
 3.write a SQL query to find the salespeople who lives in the City of 'Paris'. Return salesperson's name, city
+
 4.write a SQL query to find the orders, which are delivered by a salesperson of ID. 5001. Return ord_no, ord_date, purch_amt
+
 5.write a SQL query to find all the customers in ‘New York’ city who have a grade value above 100. Return customer_id, cust_name, city, grade, and salesman_id.
+
 6.write a SQL query to find the details of those salespeople whose commissions range from 0.10 to0.12. Return salesman_id, name, city, and commission
 7.write a SQL query to calculate total purchase amount of all orders. Return total purchase amount.
 8.write a SQL query to calculate average purchase amount of all orders. Return average purchase amount.
